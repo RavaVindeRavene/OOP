@@ -1,0 +1,6 @@
+﻿  ld4.cpp
+D:\JoJo\OOP\LD4\LD4_VS\ld4.cpp(175,104): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\JoJo\OOP\LD4\LD4_VS\ld4.cpp(176,100): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\JoJo\OOP\LD4\LD4_VS\ld4.cpp(178,69): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\JoJo\OOP\LD4\LD4_VS\ld4.cpp(179,66): warning C4305: 'argument': truncation from 'double' to 'float'
+  LD4_VS.vcxproj -> D:\JoJo\OOP\LD4\LD4_VS\Debug\LD4_VS.exe
