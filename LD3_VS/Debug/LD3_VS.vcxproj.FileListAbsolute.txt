@@ -1,0 +1,2 @@
+D:\JoJo\OOP\LD3\LD3_VS\Debug\LD3_VS.exe
+D:\JoJo\OOP\LD3\LD3_VS\Debug\LD3_VS.pdb

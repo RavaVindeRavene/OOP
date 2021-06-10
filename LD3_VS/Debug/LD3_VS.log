@@ -1,0 +1,6 @@
+﻿  ld_3.cpp
+D:\JoJo\OOP\LD3\LD3_VS\ld_3.cpp(97,23): warning C4018: '<': signed/unsigned mismatch
+D:\JoJo\OOP\LD3\LD3_VS\ld_3.cpp(104,82): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\JoJo\OOP\LD3\LD3_VS\ld_3.cpp(171,75): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\JoJo\OOP\LD3\LD3_VS\ld_3.cpp(172,54): warning C4305: 'argument': truncation from 'double' to 'float'
+  LD3_VS.vcxproj -> D:\JoJo\OOP\LD3\LD3_VS\Debug\LD3_VS.exe
